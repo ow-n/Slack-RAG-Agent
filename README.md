@@ -1,5 +1,5 @@
 # Custom Knowledge Slack RAG Agent
-![Tech Diagram](images/slack-rag-tech-diagram.jpg)
+![Tech Diagram](images/slack-rag-tech-diagram.gif)
 
 ## Overview
 This is a Slack Chatbot that can be easily trained on text data fed into the `/custom_knowledge` directory.
